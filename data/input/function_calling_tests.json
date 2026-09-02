@@ -1,0 +1,13 @@
+[
+  { "prompt": "What is the sum of 2 and 3?" },
+  { "prompt": "What is the sum of 265 and 345?" },
+  { "prompt": "Greet shrek" },
+  { "prompt": "Greet john" },
+  { "prompt": "Reverse the string 'hello'" },
+  { "prompt": "Reverse the string 'world'" },
+  { "prompt": "Repeat the word 'ha' 3 times" },
+  { "prompt": "Is 'racecar' a palindrome?" },
+  { "prompt": "Is 'python' a palindrome?" },
+  { "prompt": "Toggle the flag true" },
+  { "prompt": "Flip the boolean value false" }
+]
